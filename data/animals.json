@@ -117,12 +117,6 @@
         "hungry"
       ],
       "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "",
-      "id": "12"
     }
   ]
 }
